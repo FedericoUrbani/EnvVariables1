@@ -1,0 +1,6 @@
+server:
+  port: 4500
+environment:
+myCustomVarTree:
+  DevName: FedericoUrbani
+  authCode: xyz458
